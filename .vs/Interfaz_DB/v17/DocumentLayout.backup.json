@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Inventario.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaz_DB\\Inventario.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Usuarios.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaz_DB\\Usuarios.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|c:\\users\\jose david sistemas\\desktop\\interfaz_db\\interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\inventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\inventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaz_DB\\Inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaz_DB\\Pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\usuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\usuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaz_DB\\Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaz_DB\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaz_DB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,86 +66,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Inventario.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.Designer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Inventario.Designer.cs",
               "RelativeDocumentMoniker": "Interfaz_DB\\Inventario.Designer.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.Designer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Inventario.Designer.cs",
               "RelativeToolTip": "Interfaz_DB\\Inventario.Designer.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAgwJAAAAAoAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T16:22:48.043Z"
+              "WhenOpened": "2024-07-12T16:22:48.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Inventario.cs",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
               "RelativeDocumentMoniker": "Interfaz_DB\\Inventario.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
               "RelativeToolTip": "Interfaz_DB\\Inventario.cs",
-              "ViewState": "AQIAAA0BAAAAAAAAAAAAwEwBAAA4AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T19:55:43.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Pedidos.cs",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
               "RelativeDocumentMoniker": "Interfaz_DB\\Pedidos.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
               "RelativeToolTip": "Interfaz_DB\\Pedidos.cs",
-              "ViewState": "AQIAADMBAAAAAAAAAAAkwDkBAAA1AAAA",
+              "ViewState": "AgIAADMBAAAAAAAAAAAkwDkBAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T15:44:51.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
               "RelativeDocumentMoniker": "Interfaz_DB\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
               "RelativeToolTip": "Interfaz_DB\\Usuarios.cs",
-              "ViewState": "AQIAAOgAAAAAAAAAAAAgwNIAAABbAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T16:22:15.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pedidos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
-              "RelativeDocumentMoniker": "Interfaz_DB\\Pedidos.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Interfaz_DB\\Pedidos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T15:34:26.882Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Home.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Home.cs",
               "RelativeDocumentMoniker": "Interfaz_DB\\Home.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Home.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Home.cs",
               "RelativeToolTip": "Interfaz_DB\\Home.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T20:10:55.638Z"
+              "WhenOpened": "2024-07-11T20:10:55.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Program.cs",
               "RelativeDocumentMoniker": "Interfaz_DB\\Program.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Program.cs",
               "RelativeToolTip": "Interfaz_DB\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAmwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,24 +143,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Home.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Home.cs",
-              "RelativeDocumentMoniker": "Interfaz_DB\\Home.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Home.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Interfaz_DB\\Home.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T19:08:06.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Usuarios.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.Designer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Usuarios.Designer.cs",
               "RelativeDocumentMoniker": "Interfaz_DB\\Usuarios.Designer.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.Designer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Usuarios.Designer.cs",
               "RelativeToolTip": "Interfaz_DB\\Usuarios.Designer.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAowDoAAABkAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T16:22:22.696Z",
               "EditorCaption": ""
@@ -178,25 +157,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Inventario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
-              "RelativeDocumentMoniker": "Interfaz_DB\\Inventario.cs",
-              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Interfaz_DB\\Inventario.cs [Dise\u00F1o]",
+              "Title": "Pedidos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Pedidos.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz_DB\\Pedidos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:05:30.901Z"
+              "WhenOpened": "2024-07-12T15:34:26.882Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Home.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Home.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Home.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Home.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz_DB\\Home.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:08:06.35Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Inventario.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Inventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz_DB\\Inventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:05:30.901Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Usuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Actualizador Pagina web\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
               "RelativeDocumentMoniker": "Interfaz_DB\\Usuarios.cs",
               "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Interfaz_DB\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T16:19:54.132Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-16T16:19:54.132Z"
             }
           ]
         }
