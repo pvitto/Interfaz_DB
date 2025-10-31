@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|c:\\users\\jose david sistemas\\desktop\\interfaz_db\\interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\inventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\inventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\usuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\usuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\interfaz_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491BE21D-FA8C-4651-BCC7-626152681529}|Interfaz_DB\\Interfaz_DB.csproj|solutionrelative:interfaz_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.Designer.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Inventario.Designer.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.Designer.cs",
+              "RelativeToolTip": "Interfaz_DB\\Inventario.Designer.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAgwJAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:22:48.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
+              "RelativeToolTip": "Interfaz_DB\\Inventario.cs",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAAwEwBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:55:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
+              "RelativeToolTip": "Interfaz_DB\\Pedidos.cs",
+              "ViewState": "AQIAADMBAAAAAAAAAAAkwDkBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:44:51.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
+              "RelativeToolTip": "Interfaz_DB\\Usuarios.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAgwNIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:22:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedidos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Pedidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz_DB\\Pedidos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:34:26.882Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Home.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Home.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Home.cs",
+              "RelativeToolTip": "Interfaz_DB\\Home.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:10:55.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Program.cs",
+              "RelativeToolTip": "Interfaz_DB\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:21:42.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Home.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Home.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Home.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz_DB\\Home.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:08:06.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.Designer.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Usuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.Designer.cs",
+              "RelativeToolTip": "Interfaz_DB\\Usuarios.Designer.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowDoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:22:22.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Inventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz_DB\\Inventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:05:30.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Interfaz_DB\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Jose David Sistemas\\Desktop\\Interfaz_DB\\Interfaz_DB\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz_DB\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:19:54.132Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
